@@ -10,13 +10,13 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DevMarcosJesus)
 
-### Bem vindo ao meu perfil! | Hello Welcome to my profile!
+### Hello Welcome to my profile! | Bem vindo ao meu perfil! 
 
 <h4>My name is Marcos and</h4>
 
 -📘 I really like to learn<br>
 -💻 I'm working with Back-end Php/Laravel<br>
--🎓 I study Análise e Desenvolvimento de Sistemas | Aalysis and Systems Development<br>
+-🎓 I study Analysis and Systems Development | Análise e Desenvolvimento de Sistemas<br>
 -✈️ And I also like to travel
 
 
