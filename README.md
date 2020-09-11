@@ -8,14 +8,15 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marcos-jesus-1771261a7/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DevMarcosJesus)
 
 ### Bem vindo ao meu perfil! | Hello Welcome to my profile!
 
 <h4>My name is Marcos and</h4>
 
--📘I really like to learn<br>
--💻  I'm working with Back-end<br>
+-📘 I really like to learn<br>
+-💻 I'm working with Back-end Php/Laravel<br>
+-🎓 I study Análise e Desenvolvimento de Sistemas | Aalysis and Systems Development<br>
 -✈️ And I also like to travel
 
 
