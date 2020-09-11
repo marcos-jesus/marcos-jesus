@@ -6,6 +6,10 @@
 
 #Marcos Jesus :man_technologist:
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
 ### Bem vindo ao meu perfil! | Hello Welcome to my profile!
 
 My name is Marcos and ...:
