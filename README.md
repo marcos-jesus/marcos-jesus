@@ -15,7 +15,7 @@
 <h4>My name is Marcos and</h4>
 
 -📘 I really like to learn<br>
--💻 I'm working with Back-end Php/Laravel<br>
+-💻 I'm working with Back-end Php/Laravel & JavaScript/Vuejs<br>
 -🎓 I study Analysis and Systems Development | Análise e Desenvolvimento de Sistemas<br>
 -✈️ And I also like to travel
 
