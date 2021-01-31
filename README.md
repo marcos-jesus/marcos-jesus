@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript / Angular / VueJS / Nodejs / PHP / Laravel.</strong>
+  🦄 Linguagens: <strong>Javascript / Angular / VueJS / Nodejs </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Git, Github, Bitbucket</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Git, Github, Bitbucket, Vim</strong>
 </p>
 
 <p align="left">
-  💌 Contact email: marquinhosj73@hotmail.com ⤵️
+  💌 Contact email: developermarcosjesus@gmail.com ⤵️
 </p>
 
 <p align="left">
