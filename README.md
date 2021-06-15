@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is Marcos, I work in the <strong>FullStack development</strong>.<br>
+  Hello my name is Marcos, I work in the <strong>Front End development</strong>.<br>
   I'm working and attending college.
 </p>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Git, Github, Bitbucket, Vim</strong>
+  💼 Ferramentas: <strong>Git, Bitbucket, Vim, Npm, Gulp, Webpack, Docker</strong>
 </p>
 
 <p align="left">
