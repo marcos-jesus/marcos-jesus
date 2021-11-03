@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> const { Angular, VueJS, Nodejs } = JavaScript </strong>
+  🦄 Frameworks & Linguagem: <strong> const { Angular, VueJS, Nodejs } = JavaScript </strong>
 </p>
 
 <p align="left">
