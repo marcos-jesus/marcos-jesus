@@ -18,7 +18,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" height="40px" />
 </p>
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" height="40px" />
   
