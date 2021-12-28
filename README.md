@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Frameworks & Linguagem: <strong> const { Angular, VueJS, Nodejs } = JavaScript </strong>
+  🦄 Frameworks & Linguagem: <strong> const { VueJS, Nodejs } = JavaScript </strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Contact email: developermarcosjesus@gmail.com ⤵️
+  💌 Contact email: marcosjesus.dev@gmail.com ⤵️
 </p>
 
 <p align="left">
