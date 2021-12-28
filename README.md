@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Frameworks & Linguagem: <strong> const { VueJS, Nodejs } = JavaScript </strong>
+  🦄 Language and Framework: <strong> const { VueJS, Nodejs } = JavaScript </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Bitbucket, Vim, Npm, Gulp, Webpack, Docker</strong>
+  💼 Tools: <strong>Git, Bitbucket, Vim, Npm, Gulp, Webpack, Docker</strong>
 </p>
 
 <p align="left">
