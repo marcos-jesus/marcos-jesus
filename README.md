@@ -35,11 +35,6 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40px" height="40px" />
 </p>
 
-### Learn
-<p> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" height="40px"/>
-</p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/marcos-jesus-1771261a7/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
