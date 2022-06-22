@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<h5 align="left"> 
  I want to be the best programmer in the world. (all is possible)
 <strong> It's my dream. </strong>
 Currently i'm working as Frontend developer
 	
-</p>
+</h5>
 
 <p align="left">
   💌 Contact email: marcosjesus.dev@gmail.com ⤵️
