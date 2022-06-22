@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3 align="left"> 
- I want to be the best programmer in the world. (all is possible)
-<strong> It's my dream. </strong>
-Currently i'm working as Frontend developer
+<span align="left" style="font-size:24px;"> 
+  I want to be the best programmer in the world.
+  <br> <b style="margin-left:150px;">(all is possible)</b><br>
+  <strong style="margin-left:160px;"> It's my dream. </strong><br>
+  Currently i'm working as Frontend developer
 	
-</h3>
-
-<p align="left">
-  💌 Contact email: marcosjesus.dev@gmail.com ⤵️
+</span>
+<p>
+   💌 Contact email: marcosjesus.dev@gmail.com ⤵️
 </p>
 
 ### Tools
