@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is Marcos, I work in the <strong>Front End development</strong>.<br>
-  I'm working and attending college.
+ I want to be the best programmer in the world. (all is possible)
+<strong> It's my dream. </strong>
+Currently i'm working as Frontend developer
+	
 </p>
 
 <p align="left">
