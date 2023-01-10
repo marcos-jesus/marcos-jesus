@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<img style = "margin-top: 40px;" align="right" width = "450" src="https://user-images.githubusercontent.com/83055784/178975100-41e15a7f-ce2e-48de-9094-ed5c9c923be3.png">
+
 <span align="left" style="font-size:24px;"> 
   I want to be the best Frontend Engineer in the world.
   <br> <b style="margin-left:150px;">(all is possible)</b><br>
