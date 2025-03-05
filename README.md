@@ -1,7 +1,7 @@
 <img style = "margin-top: 40px;" align="right" width = "450" src="https://user-images.githubusercontent.com/83055784/178975100-41e15a7f-ce2e-48de-9094-ed5c9c923be3.png">
 
 <span align="left" style="font-size:24px;"> 
-  I Wanna be one of best Frontend Engineer in world.
+  I Gonna be one of best Frontend Engineer in world.
   <br> <b style="margin-left:150px;">I Gonna go there.</b><br>
   Currently i'm working as Frontend developer in big projects with responsibility CI/CD.
 	
