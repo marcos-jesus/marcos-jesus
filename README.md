@@ -2,7 +2,7 @@
 
 <span align="left" style="font-size:24px;"> 
   I Gonna be one of best Frontend Engineer in world.
-  <br> <b style="margin-left:150px;">I Gonna go there.</b><br>
+  <br> <b style="margin-left:150px;">I will get there.</b><br>
   Currently i'm working as Frontend developer in big projects with responsibility CI/CD.
 	
 </span>
