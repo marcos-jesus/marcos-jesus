@@ -3,7 +3,7 @@
 <span align="left" style="font-size:24px;"> 
   I Gonna be one of best Software Engineer in world.
   <br> <b style="margin-left:150px;">I will get there.</b><br>
-  Currently i'm working as Frontend developer in big projects with responsibility CI/CD.
+  Currently i'm working as Fullstack developer in big projects with responsibility CI/CD.
 	
 </span>
 <p>
