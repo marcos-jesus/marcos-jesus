@@ -2,7 +2,7 @@
 
 <span align="left" style="font-size:24px;">
 Desenvolvedor Fullstack Sênior, com foco em Java/Spring Boot, arquitetura orientada a eventos e front-ends modernos em React/Next.js e Angular.
-<br><b>6+ anos construindo plataformas B2B de alta complexidade.</b><br>
+<br><b>7+ anos construindo plataformas B2B de alta complexidade.</b><br>
 Atualmente na Treeal, atuando com sistemas distribuídos, Kubernetes e AWS/GCP.
 </span>
 
